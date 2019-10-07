@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  AIDA64_KeyGen.cpp
+  AIDA64_KeyGenDlg.cpp
+E:\zengxianxi\VCPPwork\AIDA64_KeyGen\AIDA64_KeyGenDlg.cpp(262,16): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+E:\zengxianxi\VCPPwork\AIDA64_KeyGen\AIDA64_KeyGenDlg.cpp(290,42): warning C4806:  “&”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+E:\zengxianxi\VCPPwork\AIDA64_KeyGen\AIDA64_KeyGenDlg.cpp(305,9): warning C4244:  “return”: 从“double”转换到“int”，可能丢失数据
+E:\zengxianxi\VCPPwork\AIDA64_KeyGen\AIDA64_KeyGenDlg.cpp(391,1): warning C4806:  “&”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+E:\zengxianxi\VCPPwork\AIDA64_KeyGen\AIDA64_KeyGenDlg.cpp(391,1): warning C4554:  “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+E:\zengxianxi\VCPPwork\AIDA64_KeyGen\AIDA64_KeyGenDlg.cpp(411,12): warning C4244:  “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  已完成代码的生成
+  AIDA64_KeyGen.vcxproj -> E:\zengxianxi\VCPPwork\AIDA64_KeyGen\ARM\Release\AIDA64_KeyGen.exe
